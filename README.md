@@ -12,10 +12,8 @@ I know HTML, CSS, some java, a bit of Python and some C++. I have decided to sti
 My goal is to be fluent in web development and Android app development.
 Ultimately my goal is to develop blockchain applications.
 
-If you like my work, I would love if if you donated in Monero:
-<img src"/monero.png">
-![Screenshot](monero.png>
-<img src"monero.png">
+![Screenshot](monero.png) If you like my work, I would love if if you donated in Monero:
+
 <h3 href="monero:4AyZoyGofUQRcooygN3N8mQTS9TFESAzrJE6V5pkKvTA1wwtRxNQEeEiSJCdhSJGedWbfupS6eqyNDkGwJZcwBDi94x8hW8">4AyZoyGofUQRcooygN3N8mQTS9TFESAzrJE6V5pkKvTA1wwtRxNQEeEiSJCdhSJGedWbfupS6eqyNDkGwJZcwBDi94x8hW8</h3>
 
 Thank you!
