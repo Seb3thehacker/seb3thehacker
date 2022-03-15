@@ -10,7 +10,7 @@ I know HTML, CSS, some java, a bit of Python and some C++. I have decided to sti
 Ultimately my goal is to develop blockchain applications.
 i use Arch btw
 
-If you like my work, I would love if if you donated in Monero:
+If you like my work, I would love if you donated in Monero:
 <h3>4AyZoyGofUQRcooygN3N8mQTS9TFESAzrJE6V5pkKvTA1wwtRxNQEeEiSJCdhSJGedWbfupS6eqyNDkGwJZcwBDi94x8hW8</h3><img src="https://github.com/Seb3thehacker/seb3thehacker/blob/main/monero.png" width="50" height="50">
 
 Thank you!
