@@ -3,11 +3,11 @@
 
 Welcome to my GitHub! Some of my code is on GitLab but most is still on my PC.
 
-I am currently contributing to Molly, soon to be a completely private messenger with support for Monero payments!
-I am also working on a series of custom privoxy themes/pages.
+I am currently working on a fork of Linx-server, which is a self-hostable file sharing website and pastebin alternitive.  
+I also contribute to Molly, a FOSS fork of Signal with many improvements.  
 
 I know HTML, CSS, some java, a bit of Python and some C++. I have decided to stick with learning Javascript. After that probably Java.
-Ultimately my goal is to develop blockchain applications.
+Ultimately my goal is to develop blockchain applications.  
 i use Arch btw
 
 If you like my work, I would love if you donated in Monero:
