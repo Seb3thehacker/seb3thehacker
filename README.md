@@ -6,7 +6,7 @@ I also contribute to Molly, a FOSS fork of Signal with many improvements.
 
 I dont have much code on here because its on my PC rn and I'm super busy.  
 
-I know HTML, CSS, some java, a bit of Python and some C++. I have decided to stick with learning Javascript. After that probably Java.
+I know HTML, CSS, some java, a bit of Python and some C++. I have decided to stick with learning Javascript.
 Ultimately my goal is to develop blockchain applications.  
 i use Arch btw
 
